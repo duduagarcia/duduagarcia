@@ -42,7 +42,7 @@
 <h1>⚙️ GitHub Analytics</h1>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardogarcia935&show_icons=true&hide=stars,prs&title_color=8B35CC&icon_color=E83E73&border_color=1b1b1b&bg_color=1b1b1b&text_color=eee)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardogarcia935&show_icons=true&hide=stars,prs&title_color=8B35CC&icon_color=E83E73&border_color=1b1b1b&bg_color=1b1b1b&text_color=eee)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardogarcia935&show_icons=true&title_color=8B35CC&icon_color=E83E73&border_color=1b1b1b&bg_color=1b1b1b&text_color=eee)](https://github.com/anuraghazra/github-readme-stats)
           
 <h1>📧 Get in touch</h1>
 
