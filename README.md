@@ -10,9 +10,6 @@
 <!--About section-->
 
 <h1>🙋‍♂️ About Me</h1>
-<br>
-
-<img align="right" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="250"/>    
     
 - 📒 I’m a **Computer Science's** student in <a href="https://www.pucrs.br/">**PUCRS**</a>
 
