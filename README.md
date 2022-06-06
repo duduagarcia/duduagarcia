@@ -2,7 +2,7 @@
     <img src="ICONE COLORIDO.png" width="200px" class="logo">
 </p>
 
-<h1 align="center">Hello There <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
+<h1 align="center">Hello There 
 <br><br>
 
 <img src="animation.svg" width="75%" height="100px" alt="Click to see the source">
